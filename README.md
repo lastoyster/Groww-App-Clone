@@ -1,10 +1,3 @@
-<a href="https://www.youtube.com/@RitikPrasad-lz8fk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./rp_banner.jpeg" />
-    <source media="(prefers-color-scheme: light)" srcset="./rp_banner.jpeg" />
-    <img alt="VisionCamera" src="./rp_banner.jpeg" />
-  </picture>
-</a>
 
 
 
